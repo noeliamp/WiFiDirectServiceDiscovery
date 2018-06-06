@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [com.android.support:support-v13:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.0.aar\ae41b6659b35aed0f8fdf499f7f8d6cf\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\e9a6e186d2afe25f8ef5767891ba2e66\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-location-8.4.0.aar\2fc4e124f9a9ca38fb4a7d9605d6afc1\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.4.0.aar\1c9070642f732697196e8d160d644c86\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\c33a54a9a42a5aa1968e5e2e16a5229b\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\73e8a0a8ba168e8f6a41f7adedfd29d4\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7eb54402e4d9ef5b7943bf2a4ba0f380\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\cd6a696f93988e2125ace9421ed8e298\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\bb47cd6cabceda33ec932188d5dbd69e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\e8fef030600c924ecae18d9e117067a9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\04727622faf8d5a0e95c99691513a927\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\d2959a010b0a70321364ce5cf072d317\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\06543c73c408bc24a06da06569492768\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\fd5b81f45249da139a3065e704b7b391\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:3:5-24
+		INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-v13:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.0.aar\ae41b6659b35aed0f8fdf499f7f8d6cf\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.0.aar\ae41b6659b35aed0f8fdf499f7f8d6cf\AndroidManifest.xml:21:5-23:55
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\e9a6e186d2afe25f8ef5767891ba2e66\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\e9a6e186d2afe25f8ef5767891ba2e66\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-location-8.4.0.aar\2fc4e124f9a9ca38fb4a7d9605d6afc1\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-location-8.4.0.aar\2fc4e124f9a9ca38fb4a7d9605d6afc1\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.4.0.aar\1c9070642f732697196e8d160d644c86\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.4.0.aar\1c9070642f732697196e8d160d644c86\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\c33a54a9a42a5aa1968e5e2e16a5229b\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\c33a54a9a42a5aa1968e5e2e16a5229b\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\73e8a0a8ba168e8f6a41f7adedfd29d4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\73e8a0a8ba168e8f6a41f7adedfd29d4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7eb54402e4d9ef5b7943bf2a4ba0f380\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7eb54402e4d9ef5b7943bf2a4ba0f380\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\cd6a696f93988e2125ace9421ed8e298\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\cd6a696f93988e2125ace9421ed8e298\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\bb47cd6cabceda33ec932188d5dbd69e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\bb47cd6cabceda33ec932188d5dbd69e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\e8fef030600c924ecae18d9e117067a9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\e8fef030600c924ecae18d9e117067a9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\04727622faf8d5a0e95c99691513a927\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\04727622faf8d5a0e95c99691513a927\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\d2959a010b0a70321364ce5cf072d317\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\d2959a010b0a70321364ce5cf072d317\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\06543c73c408bc24a06da06569492768\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\06543c73c408bc24a06da06569492768\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\fd5b81f45249da139a3065e704b7b391\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\fd5b81f45249da139a3065e704b7b391\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:7:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.0.aar\ae41b6659b35aed0f8fdf499f7f8d6cf\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:7:5-44
+		INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\c33a54a9a42a5aa1968e5e2e16a5229b\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\c33a54a9a42a5aa1968e5e2e16a5229b\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\c33a54a9a42a5aa1968e5e2e16a5229b\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\c33a54a9a42a5aa1968e5e2e16a5229b\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:15:22-63
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:19:5-97
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:19:22-95
+uses-feature#android.hardware.wifi.direct
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:24:5-88
+	android:required
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:24:63-86
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:24:19-62
+application
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:26:5-53:19
+MERGED from [com.android.support:support-v13:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.0.aar\ae41b6659b35aed0f8fdf499f7f8d6cf\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.0.aar\ae41b6659b35aed0f8fdf499f7f8d6cf\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\e9a6e186d2afe25f8ef5767891ba2e66\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\e9a6e186d2afe25f8ef5767891ba2e66\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-location-8.4.0.aar\2fc4e124f9a9ca38fb4a7d9605d6afc1\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-location-8.4.0.aar\2fc4e124f9a9ca38fb4a7d9605d6afc1\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.4.0.aar\1c9070642f732697196e8d160d644c86\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.4.0.aar\1c9070642f732697196e8d160d644c86\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\c33a54a9a42a5aa1968e5e2e16a5229b\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\c33a54a9a42a5aa1968e5e2e16a5229b\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7eb54402e4d9ef5b7943bf2a4ba0f380\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7eb54402e4d9ef5b7943bf2a4ba0f380\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\cd6a696f93988e2125ace9421ed8e298\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\cd6a696f93988e2125ace9421ed8e298\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\bb47cd6cabceda33ec932188d5dbd69e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\bb47cd6cabceda33ec932188d5dbd69e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\e8fef030600c924ecae18d9e117067a9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\e8fef030600c924ecae18d9e117067a9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\04727622faf8d5a0e95c99691513a927\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\04727622faf8d5a0e95c99691513a927\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\d2959a010b0a70321364ce5cf072d317\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\d2959a010b0a70321364ce5cf072d317\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\06543c73c408bc24a06da06569492768\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\06543c73c408bc24a06da06569492768\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\fd5b81f45249da139a3065e704b7b391\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\fd5b81f45249da139a3065e704b7b391\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:27:9-45
+receiver#discovery.SystemDialogReceiver
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:29:9-34:20
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:29:19-55
+intent-filter#action:name:android.intent.                  action.CLOSE_SYSTEM_DIALOGS
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.                  action.CLOSE_SYSTEM_DIALOGS
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:31:17-32:50
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:31:17-32:50
+activity#discovery.WiFiServiceDiscoveryActivity
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:36:9-44:20
+	android:screenOrientation
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:37:13-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:42:27-74
+service#discovery.geofencing.GeofenceTransitionsIntentService
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:47:9-102
+	android:enabled
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:47:18-40
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:47:41-100
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:49:9-51:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7eb54402e4d9ef5b7943bf2a4ba0f380\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7eb54402e4d9ef5b7943bf2a4ba0f380\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:51:13-66
+	android:name
+		ADDED from C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\src\main\AndroidManifest.xml:50:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\c33a54a9a42a5aa1968e5e2e16a5229b\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\c33a54a9a42a5aa1968e5e2e16a5229b\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\c33a54a9a42a5aa1968e5e2e16a5229b\AndroidManifest.xml:24:8-31

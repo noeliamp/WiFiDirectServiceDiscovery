@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="finding_service">Finding local services</string>
+    <string name="btn_send">Send</string>
+    <string name="era_db">Erase DB</string>
+    <string name="btn_write">Msg generator</string>
+    <string name="btn_logs">Send Logs</string>
+    <string name="btn_db">Go to DB</string>
+    <string name="btn_loop">Loop</string>
+    <string name="txt_hint">Type Message</string>
+    <string name="app_name">Wi-Fi Discovery</string>
+    <string name="location_changed">Location has changed</string>
+    <string name="start_geofence_service">Starting geofence transition service</string>
+    <string name="entering_geofence">Entering the GeoFence zone</string>
+    <string name="exiting_geofence">Exiting the GeoFence zone</string>
+    <string name="hello">My Device</string>
+    <string-array name="loop_array">
+        <item>10000</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+    </string-array>
+
+</resources>

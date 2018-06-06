@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\89fa24bb8cc359ba7448e1c15829854dbd74c320\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_dbfa26881176bd46001de81e22cb3cb461260747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\8490ae72abff00b69acfeeec5911bd3b37782cfc\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_96256827b98024371485fd855285e93a797bf30e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7a8f55408938769bac2f648e448637a7b18f75cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7af7a007fbf2d3491dd12433384a602812dfa7a0">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3b01f8f093943c9e401bd21316902ee42a6d9996\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\e255998bcc212ec7eccb055a32d7ed10ceb97c3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_ae0f55760982dd260f021f74678500762d09f8ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\7586c4a06b3a729afdcc266b457fe0288c1a7e60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_d5f2d3ea430b4648328d7908b403838f88f17f32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\5ae300262af4e3c65fb941fb1f6350a3545698f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_e6d6534df6565aae18cae16ca4e605ef4f0b63b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\ce1d4fe9800ae05965138d8175354baa374a98a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_61d9c05a355c5444ed10a21c8f094a61bcd10a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\f35e5f122536db440b21a8150b06c553fa7479d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_beb54705f38e576203092610c3684df685ce0c23.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\libs\libGoogleAnalytics.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d0254fe638021ff2ae4fe5bd53c2937006fdab5">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\transforms\dex\debug\folders\1000\2\libGoogleAnalytics_0bdad6ab874fd1843e322e264a5226ce91f1ff6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\89fa24bb8cc359ba7448e1c15829854dbd74c320\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_251a4ae8220a1f6bac12f3598985bcafacf74434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\442fd55abdf6005e8b3eef4104576f5a6b96f406\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_6022d90d38380a493a4c515e7ba9f33acef71aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\libs\libGoogleAnalytics.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d0254fe638021ff2ae4fe5bd53c2937006fdab5">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\libGoogleAnalytics_0bdad6ab874fd1843e322e264a5226ce91f1ff6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\libs\apache-commons-net.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="765820f6052742ebad5bcd832e44bd5a6dc2b267">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\apache-commons-net_176c4f405f91231b6841b17ced5a46f605f89dd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\8c518f83b4f735c30c23a13203c9d19511e554de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_0b339869a3c42d9dfe509a14bef64639c4a3c4c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\7586c4a06b3a729afdcc266b457fe0288c1a7e60\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1a35078c381bde7a5b5bded18a0be9cc05245626.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\d5b81bbc44e330c17f77635d53c304f4ae64ef56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_fd2c3767c476421453f93150f13054a45c30e1d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\b80ef7534b16aaa8b95f87fed8fb3f36375b9b8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_8a5496e46289e22890b3c3777e1b69833a1040ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\31dc67ae5c8205bc7fa14740eafc34a48dcf0d03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_bc4991b6537fa97f0c0f38e6955ae376da2aa810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\f067f4f71e8da0f01c8273c89d6d1f30168750ce\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_eaae2e9cf247f8e17d18eac72d7f370728f47d60.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\libs\jsch-0.1.52.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2c608943b8b46078144d261fa4ff7d9e77c2eae">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsch-0.1.52_b3fb2d8617a4468474316da62d27d1d2f4a05094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\libs\apache-commons-net.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="765820f6052742ebad5bcd832e44bd5a6dc2b267">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\transforms\dex\debug\folders\1000\2\apache-commons-net_176c4f405f91231b6841b17ced5a46f605f89dd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\f067f4f71e8da0f01c8273c89d6d1f30168750ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_6636b2c949e4e8ebc14c740c8e813778e94cbedb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\442fd55abdf6005e8b3eef4104576f5a6b96f406\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_e24a83d9bd5c000af6eed2f7a5dc135762624e23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\libs\jsch-0.1.52.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2c608943b8b46078144d261fa4ff7d9e77c2eae">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\jsch-0.1.52_b3fb2d8617a4468474316da62d27d1d2f4a05094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\8490ae72abff00b69acfeeec5911bd3b37782cfc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_5dd11aaee4006e9d267c889125db1a3a29a2a497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\af9009793fe4731f1c65454b401f2214e8f6298c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\classes_15f1e594753c13358fc47940c42c8a0e8561d9ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noelia\.android\build-cache\ce1d4fe9800ae05965138d8175354baa374a98a5\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Noelia\Desktop\IMDEA Projects\WifiDirectServiceDiscovery\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_95ae2f01c3a4cd19b7ca9bd2f9e19b8f19f880cc.jar" />
+    </item>
+
+</items>
